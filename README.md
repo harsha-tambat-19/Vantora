@@ -1,6 +1,6 @@
-# Nexus ERP
+# Vantora - AI-Powered Enterprise Management Platform
 
-An ERP system with AI assistant. MERN stack (React, Node, MongoDB) + Gemini AI.
+Vantora is an AI-powered enterprise management platform. MERN stack (React, Node, MongoDB) + Gemini AI.
 
 ## Setup
 
